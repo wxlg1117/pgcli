@@ -13,6 +13,7 @@ Internal:
 ---------
 
 * Add python 3.7 to travis build matrix. (Thanks: `Irina Truong`_)
+* Apply `black` to code. (Thanks: `Irina Truong`_)
 
 2.1.0
 =====
